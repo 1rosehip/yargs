@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [16.0.0](https://www.github.com/yargs/yargs/compare/v15.4.2...v16.0.0) (2020-07-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* **ts:** yargs now ships with its own types
+* drop support for EOL Node 8 (#1686)
+
+### Features
+
+* drop support for EOL Node 8 ([#1686](https://www.github.com/yargs/yargs/issues/1686)) ([863937f](https://www.github.com/yargs/yargs/commit/863937f23c3102f804cdea78ee3097e28c7c289f))
+
+
+### Code Refactoring
+
+* **ts:** ship yargs.d.ts ([#1671](https://www.github.com/yargs/yargs/issues/1671)) ([c06f886](https://www.github.com/yargs/yargs/commit/c06f886142ad02233db2b2ba82f2e606cbf57ccd))
+
 ## [15.4.0](https://www.github.com/yargs/yargs/compare/v15.3.1...v15.4.0) (2020-06-30)
 
 
